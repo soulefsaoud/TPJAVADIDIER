@@ -1,0 +1,39 @@
+package tp;
+
+public class Personne {
+	private String prenom;
+	String nom;
+	int age;
+	//Integer age;
+	
+	
+	
+	@Override
+	public String toString() {
+		return "Personne [prenom=" + prenom + ", nom=" + nom + ", age=" + age + "]";
+	}
+	
+	
+	public String getPrenom() {
+		return prenom;
+	}
+
+
+	public void setPrenom(String prenom) {
+		this.prenom = prenom;
+	}
+
+
+	//fonction incrementerAge()
+	public void IncrementerAge() {
+		//age = this.age + 1;
+		this.age++;
+	}
+	
+	//nomComplet()
+	//retourne la concaténation de prénom et nom
+	public String nomComplet( ) {
+		return "le nom complet est : " +prenom +" "+ nom;
+	}
+
+}

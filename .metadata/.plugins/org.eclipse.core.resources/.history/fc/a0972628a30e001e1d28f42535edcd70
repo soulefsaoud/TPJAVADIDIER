@@ -1,0 +1,27 @@
+package tp;
+
+public class Valise extends Bagage {
+
+	public double hauteur;
+	public double profondeur;
+	public double largeur;
+	
+	
+	public Valise(String label, String couleur, double poids, double hauteur, double profondeur, double largeur) {
+		super(label, couleur,poids);
+		this.hauteur = hauteur;
+		this.profondeur = profondeur;
+		this.largeur= largeur;
+	}
+	
+		
+	@Override
+	public String toString() {
+		return "Valise [hauteur=" + hauteur + ", profondeur=" + profondeur + ", largeur=" + largeur + "]";
+	}
+
+
+	public double getVolume() {
+		return hauteur*profondeur*largeur/1000;
+	}
+}

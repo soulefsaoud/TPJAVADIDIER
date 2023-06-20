@@ -1,0 +1,116 @@
+package tp;
+
+import java.util.Arrays;
+
+//import javax.swing.JOptionPane;
+
+public class MyApp {
+	
+	public static final int TAILLE_MAX = 24;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello");
+		//test_types();
+		//test_personnes();
+		//test_String();
+		//ExtraireMois();
+		//test_Adresse();
+		test_Tableaux();
+	}
+	
+	public static void test_Tableaux() {
+		double[] tabDouble;
+		tabDouble = new double[TAILLE_MAX];
+		
+		for (int i = 0; i < tabDouble.length; i++) {
+			tabDouble[i] = Math.sqrt(i);
+			
+		}
+		
+		for (int i = 0; i < tabDouble.length; i++) {
+			System.out.println("MyApp.test_Tableaux()" +" i " + i + " résultat "+  tabDouble[i]);
+			
+		}
+		
+		for (int i = 0; i < tabDouble.length; i++) {
+			System.out.println("ok pb" + tabDouble[i]);
+		}
+		
+		System.out.println("MyApp.test_Tableaux()" + Arrays.toString(tabDouble));
+	}
+	
+	public static void test_Adresse( ) {
+		Adress a = new Adress();
+		a.setVille("Meaux");
+		a.setCodePostal(77100);
+		a.setRue("passage de la cour");
+		String adresse = a.toString();
+		System.out.println(adresse);
+	}
+	
+	
+	public static void test_String() {
+		//construire et afficher la grosse chaine de caractère suivante:
+	//	"1,2,3,4,...,64"
+		
+		StringBuilder longString = new StringBuilder(64);
+		int a = 0;
+		for(int i=0;i<64;i++) {
+			a++;
+			longString.append(a);
+			longString.append(",");
+		}
+		String longStringAffichage = longString.toString();
+		System.out.println("MyApp.test_String()" + longStringAffichage);
+		
+	}
+	
+	public static void ExtraireMois() {
+		String chaineDate= "16/06/2023";
+		int posDuPremierSlash = chaineDate.indexOf("/");
+		int posDuDernierSlash = chaineDate.lastIndexOf("/");
+		String chaineMois = chaineDate.substring(posDuPremierSlash+1, posDuDernierSlash);
+		System.out.println("chaineMois " + chaineMois);
+		
+		
+	}
+
+	public static void test_personnes() {
+		//Personne p1 = new Personne();
+		//System.out.println("p1" + p1);
+		//System.out.println(" to string " +p1.toString());
+
+		Personne p2 = new Personne();
+		//p2.nom = "jean";
+		//		p2.prenom = " louis";
+		p2.setPrenom("yousra");
+		//p2.age = 25;
+		p2.setAge(15);
+		p2.IncrementerAge();		
+		String resultNom = p2.nomComplet();
+		System.out.println("p2 " +"  "+ resultNom);
+		System.out.println("p2 "+ p2.toString());
+	}
+
+	public static void test_types() {
+		int a=5;
+		System.out.println("a="+a);
+		String s1="15", s2="3";
+		//s2 = JOptionPane.showInputDialog(null,"s2=");
+		System.out.println(s1+s2);
+
+		String s3= s1+s2;
+		System.out.println("s3= s1+s2=" +s3);
+
+		int i1 = Integer.parseInt(s1);
+		int i2 = Integer.parseInt(s2);
+		int i3= i1+i2;
+		Integer obj3 = i3; //fait automatiquement new Integer(i3); //BOXING
+		int i4 = obj3; //fait automatiquement obj3.intValue(); //UNBOXING
+		System.out.println("i4 =" +i4);
+		System.out.println("resultat addition="+i3);
+		System.out.println("resultat addition="+(i1+i2));
+	}
+
+}

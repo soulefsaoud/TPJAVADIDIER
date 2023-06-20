@@ -1,0 +1,12 @@
+package tp;
+
+public class Valise extends Bagage {
+
+	public double hauteur;
+	public double profondeur;
+	public double largeur;
+	
+	public double getVolume() {
+		return hauteur*profondeur*largeur;
+	}
+}

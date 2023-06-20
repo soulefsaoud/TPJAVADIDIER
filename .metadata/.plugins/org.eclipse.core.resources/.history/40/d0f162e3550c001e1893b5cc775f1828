@@ -1,0 +1,10 @@
+package tp;
+
+public class Adress {
+	private String num;
+	private String rue;
+	private Integer codePostal;
+	private Integer ville;
+
+}
+ /* get set constructeur toString() tester ça depuis MyApp */

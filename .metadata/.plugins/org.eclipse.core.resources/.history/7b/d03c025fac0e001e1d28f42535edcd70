@@ -1,0 +1,26 @@
+package tp;
+
+import java.util.ArrayList;
+
+public class Avion {
+
+	private String label;
+	
+	private ArrayList<Bagage> bagages = new ArrayList<>();
+	
+	public void addBagages(Bagage b) {
+		this.bagages.add(b);
+	}
+	
+	public void retirerBagage(Bagage b) {
+		this.bagages.remove(b);
+	}
+	
+	public double chargeUtile() {
+		//calculer et retourner le poids total des éléments mis dans l'avion
+		double poidsTotal = 0;
+		
+		
+		return poidsTotal;
+	}
+}

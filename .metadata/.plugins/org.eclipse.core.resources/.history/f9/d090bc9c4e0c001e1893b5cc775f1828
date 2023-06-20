@@ -1,0 +1,9 @@
+package tp;
+
+public class Adress {
+	private String num;
+	private String rue;
+	private Integer codePostal;
+	private Integer ville;
+
+}

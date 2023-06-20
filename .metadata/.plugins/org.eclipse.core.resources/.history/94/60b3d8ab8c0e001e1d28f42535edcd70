@@ -1,0 +1,29 @@
+package tp;
+
+public class Employe extends Personne {
+
+	private Integer salaire;
+	
+	
+	public Employe() {
+		super();
+		this.salaire = 0;
+		// TODO Auto-generated constructor stub
+	}
+
+	public Integer getSalaire() {
+		return salaire;
+	}
+
+	public void setSalaire(Integer salaire) {
+		this.salaire = salaire;
+	}
+
+	@Override
+	public String toString() {
+	
+		return "Employe [salair e= " + salaire +  super.toString() + "] " ;
+	}
+	
+	
+}

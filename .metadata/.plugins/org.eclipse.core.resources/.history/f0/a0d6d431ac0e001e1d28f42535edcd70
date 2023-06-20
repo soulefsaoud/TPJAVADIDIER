@@ -1,0 +1,18 @@
+package tp;
+
+import java.util.ArrayList;
+
+public class Avion {
+
+	private String label;
+	
+	private ArrayList<Bagage> bagages = new ArrayList<>();
+	
+	public void addBagages(Bagage b) {
+		this.bagages.add(b);
+	}
+	
+	public void retirerBagage(Bagage b) {
+		this.bagages.remove(b)
+	}
+}

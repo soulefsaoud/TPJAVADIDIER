@@ -1,0 +1,13 @@
+package tp;
+
+import java.util.Scanner;
+
+public interface AfficheurInteractif extends Afficheur, Interactif {
+
+	public String saisrReponse(String question) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println(question);
+		return scanner.nextLine();
+	}
+	
+}

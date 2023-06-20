@@ -1,0 +1,10 @@
+package tp;
+
+import java.util.ArrayList;
+
+public class Avion {
+
+	private String label;
+	
+	private ArrayList<Bagage> bagages = new ArrayList<>();
+}

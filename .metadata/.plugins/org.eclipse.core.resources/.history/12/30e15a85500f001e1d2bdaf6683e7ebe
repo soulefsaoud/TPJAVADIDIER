@@ -1,0 +1,20 @@
+package tp;
+
+public class AfficheurInteractifDialog extends AfficheurDialog  implements AfficheurInteractif{
+
+	@Override
+	public String saisirReponse(String question) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String saisrReponse(String question) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+
+	
+}

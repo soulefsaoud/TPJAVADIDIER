@@ -1,0 +1,11 @@
+package tp;
+
+public abstract class Bagage {
+
+	public String label;
+	public String couleur;
+	public double poids;
+	
+	
+	public abstract void getVolume();
+}
