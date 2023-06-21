@@ -3,6 +3,12 @@ package tp;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import tp.bagages.Bagage;
+import tp.bagages.Sac;
+import tp.bagages.Valise;
+import tp.personnes.Employe;
+import tp.personnes.Personne;
+
 //import javax.swing.JOptionPane;
 
 public class MyApp {

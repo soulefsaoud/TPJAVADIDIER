@@ -1,4 +1,7 @@
-package tp;
+package tp.bagages;
+
+import tp.Transportable;
+
 /**
  * 
  * @author soulef

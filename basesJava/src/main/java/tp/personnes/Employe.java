@@ -1,4 +1,4 @@
-package tp;
+package tp.personnes;
 
 public class Employe extends Personne {
 
