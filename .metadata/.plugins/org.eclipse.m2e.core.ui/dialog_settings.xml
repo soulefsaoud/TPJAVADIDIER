@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Administrateur\eclipse-workspace\basesJava\src\main\java\tp\personnes\Employe.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,10 +44,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="tp"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="basesJava2"/>
 			<item value="basesJAVA"/>
 		</list>
 		<list key="projectNameTemplate">

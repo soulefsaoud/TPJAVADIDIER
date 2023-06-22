@@ -2262,3 +2262,1166 @@ Caused by: java.lang.Exception: File not found: C:\Users\Administrateur\Desktop\
 2023-06-20 14:00:43,674 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2023-06-20 14:00:54,865 [Worker-84: Launching basesJava (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Administrateur\eclipse-workspace\basesJava":
 2023-06-20 14:00:54,865 [Worker-84: Launching basesJava (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always javadoc:javadoc
+2023-06-20 14:25:03,217 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:25:03,218 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:25:03,219 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:25:03,219 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:25:50,639 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:25:50,639 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:25:50,640 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:25:50,640 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:25:57,867 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:25:57,868 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:25:57,869 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:25:57,869 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:26:20,768 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:26:20,768 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:26:20,769 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:26:20,770 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:26:25,147 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:26:25,148 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:26:25,149 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:26:25,150 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:42:42,477 [Worker-102: Creating project "basesJava2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJava2:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJava2\pom.xml.
+2023-06-20 14:42:42,680 [Worker-102: Creating project "basesJava2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJava2/src/main/java
+2023-06-20 14:42:42,681 [Worker-102: Creating project "basesJava2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /basesJava2/src/main/resources
+2023-06-20 14:42:42,681 [Worker-102: Creating project "basesJava2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJava2/src/test/java
+2023-06-20 14:42:42,681 [Worker-102: Creating project "basesJava2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /basesJava2/src/test/resources
+2023-06-20 14:42:43,216 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:42:43,217 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:42:43,219 [Worker-105: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-20 14:42:43,220 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:44:21,159 [Worker-106: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJava2:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJava2\pom.xml.
+2023-06-20 14:44:21,185 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:44:21,185 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:44:21,186 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:44:21,187 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:44:30,552 [Worker-102: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-20 14:44:30,715 [Worker-102: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJava2:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJava2\pom.xml.
+2023-06-20 14:44:30,751 [Worker-102: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJava2/src/main/java
+2023-06-20 14:44:30,751 [Worker-102: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /basesJava2/src/main/resources
+2023-06-20 14:44:30,768 [Worker-102: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJava2/src/test/java
+2023-06-20 14:44:30,768 [Worker-102: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /basesJava2/src/test/resources
+2023-06-20 14:44:30,883 [Worker-102: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-06-20 14:44:30,994 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:44:30,994 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:44:30,996 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:44:30,996 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:45:00,061 [Worker-102: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJava2:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJava2\pom.xml.
+2023-06-20 14:45:00,083 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:45:00,083 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:45:00,084 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:45:00,085 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:47:17,940 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:47:17,941 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:47:17,942 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:47:17,942 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:48:20,908 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:48:20,909 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:48:20,910 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:48:20,910 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:51:42,426 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:51:42,427 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:51:42,429 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:51:42,429 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:51:46,743 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:51:46,743 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:51:46,744 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:51:46,745 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:52:12,281 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:52:12,281 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:52:12,282 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:52:12,282 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:52:29,337 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:52:29,338 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:52:29,339 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:52:29,339 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:55:25,889 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:55:25,889 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:55:25,890 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:55:25,890 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:55:40,686 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:55:40,687 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:55:40,688 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:55:40,688 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:57:31,342 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:57:31,342 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:57:31,343 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:57:31,343 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:59:44,991 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:59:44,991 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 14:59:44,992 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 14:59:44,992 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:05:21,886 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:05:21,887 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:05:21,889 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:05:21,889 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:13:45,173 [Worker-114: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:13:45,174 [Worker-114: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:13:45,175 [Worker-114: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:13:45,176 [Worker-114: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:15:38,715 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:15:38,715 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:15:38,716 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:15:38,716 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:16:11,408 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:16:11,409 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:16:11,410 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:16:11,411 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:18:37,688 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:18:37,689 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:18:37,689 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:18:37,690 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:19:01,270 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:19:01,271 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:19:01,272 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:19:01,272 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:20:15,531 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:20:15,531 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:20:15,532 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:20:15,533 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:21:13,937 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:21:13,938 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:21:13,939 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:21:13,939 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:22:51,849 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:22:51,850 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:22:51,851 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:22:51,852 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:25:09,317 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:25:09,317 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:25:09,318 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:25:09,319 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:49:26,095 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:49:26,096 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:49:26,097 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:49:26,097 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:51:51,444 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:51:51,444 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:51:51,445 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:51:51,445 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:52:27,595 [Worker-129: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:52:27,595 [Worker-129: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 15:52:27,597 [Worker-129: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 15:52:27,597 [Worker-129: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:04:49,377 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:04:49,378 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:04:49,379 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:04:49,379 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:06:39,528 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:06:39,529 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:06:39,529 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:06:39,530 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:08:29,173 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:08:29,173 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:08:29,174 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:08:29,174 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:12:38,713 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:12:38,713 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:12:38,714 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:12:38,715 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:12:53,750 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:12:53,750 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:12:53,751 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:12:53,752 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:19:11,034 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:19:11,035 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:19:11,037 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:19:11,037 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:19:34,942 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:19:34,942 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:19:34,943 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:19:34,944 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:23:30,657 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:23:30,658 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:23:30,660 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:23:30,660 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:24:20,453 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:24:20,455 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:24:20,458 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:24:20,459 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:25:04,946 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:25:04,947 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:25:04,948 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:25:04,948 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:27:27,852 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:27:27,852 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:27:27,853 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:27:27,854 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:28:29,471 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:28:29,472 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:28:29,473 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:28:29,473 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:31:22,000 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:31:22,001 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:31:22,002 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:31:22,002 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:32:41,614 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:32:41,615 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:32:41,616 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:32:41,617 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:33:52,387 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:33:52,388 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:33:52,389 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:33:52,389 [Worker-142: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:33:55,976 [Worker-139: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:33:55,977 [Worker-139: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:33:55,978 [Worker-139: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:33:55,979 [Worker-139: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:34:18,502 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:34:18,503 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:34:18,504 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:34:18,505 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:35:40,390 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:35:40,391 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-20 16:35:40,392 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-20 16:35:40,392 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:00:52,956 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-21 09:14:05,062 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:14:05,066 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:14:05,070 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:14:05,071 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:18:06,455 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:18:06,458 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:18:06,462 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:18:06,462 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:31:30,335 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:31:30,335 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:31:30,337 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:31:30,337 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:33:41,602 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:33:41,603 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:33:41,604 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:33:41,605 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:34:00,015 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:34:00,016 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:34:00,018 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:34:00,019 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:36:58,858 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:36:58,859 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:36:58,861 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:36:58,861 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:37:28,617 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:37:28,618 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:37:28,619 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:37:28,620 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:41:01,113 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:41:01,114 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:41:01,116 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:41:01,117 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:47:32,330 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:47:32,331 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:47:32,333 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:47:32,333 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:48:20,702 [Worker-40: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:48:20,703 [Worker-40: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:48:20,705 [Worker-40: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:48:20,705 [Worker-40: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:48:36,331 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:48:36,332 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:48:36,334 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:48:36,334 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:49:09,795 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:49:09,796 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:49:09,798 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:49:09,798 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:49:16,455 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:49:16,455 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:49:16,456 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:49:16,456 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:50:44,472 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:50:44,473 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:50:44,474 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:50:44,475 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:50:57,792 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:50:57,793 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:50:57,794 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:50:57,794 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:51:10,329 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:51:10,329 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:51:10,331 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:51:10,332 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:53:38,176 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:53:38,177 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:53:38,180 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:53:38,180 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:53:57,319 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:53:57,320 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:53:57,321 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:53:57,321 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:54:26,919 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:54:26,919 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:54:26,921 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:54:26,921 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:57:37,977 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:57:37,978 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 09:57:37,980 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 09:57:37,980 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:20:09,810 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:20:09,810 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:20:09,811 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:20:09,812 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:22:09,462 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:22:09,463 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:22:09,464 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:22:09,464 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:22:19,347 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:22:19,347 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:22:19,349 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:22:19,350 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:22:43,373 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:22:43,374 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:22:43,376 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:22:43,376 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:24:24,904 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:24:24,904 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:24:24,906 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:24:24,906 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:24:35,356 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:24:35,357 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:24:35,359 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:24:35,360 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:24:44,781 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:24:44,782 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:24:44,783 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:24:44,784 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:24:59,779 [Worker-54: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:24:59,780 [Worker-54: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:24:59,782 [Worker-54: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:24:59,783 [Worker-54: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:26:09,005 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:26:09,005 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:26:09,007 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:26:09,007 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:26:19,144 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:26:19,144 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:26:19,146 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:26:19,146 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:26:49,813 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:26:49,814 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:26:49,815 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:26:49,815 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:27:06,334 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:27:06,334 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:27:06,335 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:27:06,336 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:30:12,570 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:30:12,570 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:30:12,571 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:30:12,572 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:30:25,002 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:30:25,004 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:30:25,006 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:30:25,006 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:32:26,404 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:32:26,405 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:32:26,406 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:32:26,406 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:35:10,013 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:35:10,013 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:35:10,015 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:35:10,015 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:35:37,528 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:35:37,529 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:35:37,530 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:35:37,530 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:36:15,430 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:36:15,430 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:36:15,432 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:36:15,432 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:38:26,701 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:38:26,701 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:38:26,703 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:38:26,703 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:39:03,281 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:39:03,281 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:39:03,283 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:39:03,283 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:39:41,426 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:39:41,427 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:39:41,429 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:39:41,429 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:40:05,592 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:40:05,592 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:40:05,593 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:40:05,594 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:41:21,375 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:41:21,375 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:41:21,376 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:41:21,377 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:44:33,337 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:44:33,338 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:44:33,339 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:44:33,339 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:45:12,516 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:45:12,517 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:45:12,518 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:45:12,518 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:45:54,046 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:45:54,046 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:45:54,048 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:45:54,048 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:47:03,164 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:47:03,164 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:47:03,165 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:47:03,166 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:47:27,152 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:47:27,153 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:47:27,154 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:47:27,154 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:48:39,806 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:48:39,806 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 10:48:39,808 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 10:48:39,808 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:26:28,473 [Worker-68: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJava2:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJava2\pom.xml.
+2023-06-21 11:26:28,480 [Worker-68: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier  to /basesJava/target/classes
+2023-06-21 11:26:29,026 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:26:29,027 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:26:29,029 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:26:29,029 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:26:43,892 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:26:43,892 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:26:43,894 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:26:43,894 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:27:37,536 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:27:37,537 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:27:37,538 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:27:37,538 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:28:36,991 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:28:36,991 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:28:36,992 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:28:36,992 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:28:53,013 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:28:53,014 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:28:53,015 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:28:53,015 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:29:37,076 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:29:37,077 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:29:37,078 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:29:37,078 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:29:41,886 [Worker-70: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:29:41,890 [Worker-70: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:29:41,893 [Worker-70: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:30:08,327 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:30:08,327 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:30:08,329 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:30:08,329 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:30:18,543 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:30:18,544 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:30:18,547 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:30:18,548 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:30:51,119 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:30:51,120 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:30:51,121 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:30:51,121 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:30:56,279 [Worker-71: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:30:56,283 [Worker-71: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:30:56,286 [Worker-71: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:31:13,220 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:31:13,221 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:31:13,222 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:31:13,222 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:31:16,687 [Worker-64: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:31:16,692 [Worker-64: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:31:16,695 [Worker-64: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:31:37,547 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:31:37,547 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:31:37,548 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:31:37,549 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:31:40,672 [Worker-64: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:31:40,675 [Worker-64: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:31:40,679 [Worker-64: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:32:16,066 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:32:16,066 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:32:16,067 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:32:16,068 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:32:27,442 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:32:27,443 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:32:27,444 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:32:27,444 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:06,070 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:33:06,070 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:06,071 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:33:06,071 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:16,262 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:33:16,262 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:16,263 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:33:16,264 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:19,940 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:33:19,943 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:33:19,946 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:33:37,871 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:33:37,871 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:37,874 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:33:37,874 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:40,600 [Worker-71: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:33:40,603 [Worker-71: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:33:40,606 [Worker-71: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:33:55,938 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:33:55,938 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:55,939 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:33:55,940 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:33:57,065 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:33:57,069 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:33:57,072 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:34:39,135 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:34:39,136 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:34:39,137 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:34:39,137 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:34:40,521 [Worker-69: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:34:40,524 [Worker-69: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:34:40,528 [Worker-69: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:09,690 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:35:09,690 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:35:09,692 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:35:09,692 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:35:11,066 [Worker-72: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:11,070 [Worker-72: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:11,073 [Worker-72: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:35,377 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:35,380 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:35,384 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:38,985 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:38,988 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:35:38,992 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:37:17,772 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:37:17,773 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:37:17,774 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:37:17,774 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:37:19,682 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:37:19,685 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:37:19,688 [Worker-68: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:38:58,638 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:38:58,639 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:38:58,640 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:38:58,640 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:39:00,300 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:39:00,303 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:39:00,306 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:44:39,297 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:44:39,297 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:44:39,298 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:44:39,298 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:44:41,673 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:44:41,676 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:44:41,679 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:45:06,418 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:45:06,418 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:45:06,419 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:45:06,419 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:45:08,433 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:45:08,436 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:45:08,439 [Worker-73: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:47:16,716 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:47:16,717 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:47:16,718 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:47:16,719 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:47:18,249 [Worker-76: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:47:18,252 [Worker-76: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:47:18,255 [Worker-76: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:49:44,177 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:49:44,177 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:49:44,179 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:49:44,179 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:49:46,403 [Worker-81: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:49:46,406 [Worker-81: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:49:46,409 [Worker-81: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:49:48,692 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:49:48,692 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:49:48,693 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:49:48,693 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:52:57,107 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:52:57,108 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:52:57,109 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:52:57,109 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:55:22,008 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:55:22,009 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:55:22,010 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:55:22,010 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:55:23,923 [Worker-84: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:23,926 [Worker-84: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:23,929 [Worker-84: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:29,333 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:55:29,333 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:55:29,334 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:55:29,335 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:55:31,315 [Worker-84: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:31,318 [Worker-84: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:31,322 [Worker-84: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:32,741 [Worker-85: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:32,745 [Worker-85: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:32,748 [Worker-85: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:41,344 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:55:41,345 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:55:41,346 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 11:55:41,346 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 11:55:43,425 [Worker-78: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:43,430 [Worker-78: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 11:55:43,434 [Worker-78: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 12:04:20,924 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:04:20,925 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:04:20,926 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:04:20,926 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:04:23,197 [Worker-78: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 12:04:23,200 [Worker-78: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 12:04:23,205 [Worker-78: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 12:09:58,964 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:09:58,965 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:09:58,966 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:09:58,966 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:10:07,911 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:10:07,912 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:10:07,913 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:10:07,913 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:10:27,365 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:10:27,366 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:10:27,367 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:10:27,367 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:10:30,498 [Worker-93: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 12:10:30,501 [Worker-93: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 12:10:30,505 [Worker-93: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 12:20:47,093 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:20:47,094 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 12:20:47,095 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 12:20:47,096 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 13:46:57,734 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 13:46:57,735 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 13:46:57,736 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 13:46:57,736 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 13:55:28,499 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 13:55:28,500 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 13:55:28,501 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 13:55:28,501 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 13:55:30,542 [Worker-98: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 13:55:30,546 [Worker-98: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 13:55:30,549 [Worker-98: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 13:55:35,281 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 13:55:35,282 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 13:55:35,284 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 13:55:35,285 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 13:58:09,165 [Worker-101: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 13:58:09,168 [Worker-101: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 13:58:09,171 [Worker-101: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:15:06,596 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:15:06,597 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:15:06,598 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:15:06,598 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:18:07,201 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:18:07,201 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:18:07,202 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:18:07,202 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:24:03,406 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:24:03,407 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:24:03,409 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:24:03,410 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:25:17,608 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:25:17,609 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:25:17,611 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:25:17,611 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:25:19,288 [Worker-104: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:25:19,292 [Worker-104: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:25:19,295 [Worker-104: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:41:06,408 [Worker-104: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:41:06,411 [Worker-104: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:41:06,415 [Worker-104: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:41:37,470 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:41:37,473 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:41:37,477 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:48:20,300 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:48:20,300 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:48:20,302 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:48:20,302 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:48:40,977 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:48:40,977 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:48:40,978 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:48:40,978 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:02,948 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:50:02,948 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:02,949 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:50:02,949 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:06,093 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:50:06,094 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:06,095 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:50:06,095 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:26,414 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:50:26,414 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:26,415 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:50:26,416 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:30,436 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:50:30,436 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:30,438 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:50:30,439 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:50:30,456 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:50:30,460 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:50:30,464 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:51:12,309 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:51:12,312 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:51:12,315 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:51:20,391 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:51:20,392 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:51:20,393 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:51:20,393 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:51:22,693 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:51:22,696 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:51:22,699 [Worker-111: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:52:06,227 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:52:06,227 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:52:06,229 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:52:06,229 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:52:07,672 [Worker-117: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:52:07,676 [Worker-117: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:52:07,679 [Worker-117: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:52:09,599 [Worker-114: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:52:09,602 [Worker-114: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:52:09,605 [Worker-114: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 14:52:24,419 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:52:24,419 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 14:52:24,421 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 14:52:24,421 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:15:43,451 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:15:43,452 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:15:43,453 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:15:43,454 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:15:43,468 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:15:43,473 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:15:43,476 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:15:44,568 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:15:44,568 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:15:44,569 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:15:44,569 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:17:18,947 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:17:18,947 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:17:18,949 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:17:18,949 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:17:22,711 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:17:22,715 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:17:22,718 [Worker-113: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:34:59,454 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:34:59,454 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:34:59,455 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:34:59,455 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:35:09,033 [Worker-123: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:35:09,036 [Worker-123: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:35:09,040 [Worker-123: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:35:27,624 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:35:27,625 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:35:27,626 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:35:27,626 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:35:29,322 [Worker-119: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:35:29,325 [Worker-119: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:35:29,328 [Worker-119: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:39:29,029 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:39:29,029 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:39:29,030 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:39:29,030 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:39:32,032 [Worker-122: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:39:32,035 [Worker-122: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:39:32,039 [Worker-122: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:40:00,514 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:40:00,515 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:40:00,516 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:40:00,516 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:40:01,083 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:40:01,086 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:40:01,089 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:40:08,253 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:40:08,253 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:40:08,255 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:40:08,255 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:44:15,390 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:44:15,391 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:44:15,392 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:44:15,392 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:44:21,624 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:44:21,627 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:44:21,630 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:44:23,175 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:44:23,178 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-21 16:44:23,182 [Worker-121: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 08:51:11,179 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-22 09:03:38,564 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier  to /basesJava/target/classes
+2023-06-22 09:03:40,112 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:03:40,115 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:03:40,118 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:03:40,119 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:03:41,172 [Worker-21: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:03:41,178 [Worker-21: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:03:41,185 [Worker-21: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:33:05,470 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:33:05,472 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:33:05,474 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:33:05,474 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:36:07,603 [Worker-28: Creating project "basesJdbc"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJdbc:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJdbc\pom.xml.
+2023-06-22 09:36:07,825 [Worker-28: Creating project "basesJdbc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJdbc/src/main/java
+2023-06-22 09:36:07,826 [Worker-28: Creating project "basesJdbc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /basesJdbc/src/main/resources
+2023-06-22 09:36:07,826 [Worker-28: Creating project "basesJdbc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJdbc/src/test/java
+2023-06-22 09:36:07,826 [Worker-28: Creating project "basesJdbc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /basesJdbc/src/test/resources
+2023-06-22 09:36:08,143 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-22 09:36:08,144 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:36:08,146 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-06-22 09:36:08,147 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:37:17,146 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJdbc:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJdbc\pom.xml.
+2023-06-22 09:37:17,179 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:37:17,179 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:37:17,181 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:37:17,181 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:37:28,666 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-22 09:37:28,854 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJdbc:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJdbc\pom.xml.
+2023-06-22 09:37:28,896 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJdbc/src/main/java
+2023-06-22 09:37:28,897 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /basesJdbc/src/main/resources
+2023-06-22 09:37:28,918 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJdbc/src/test/java
+2023-06-22 09:37:28,918 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /basesJdbc/src/test/resources
+2023-06-22 09:37:29,054 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-06-22 09:37:29,166 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:37:29,166 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:37:29,168 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:37:29,169 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:39:33,753 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:39:33,755 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:39:33,758 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:39:33,758 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:40:33,007 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:40:33,008 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:40:33,011 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:40:33,011 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:41:24,723 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:41:24,724 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:41:24,728 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:41:24,729 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:50:13,186 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:50:13,187 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:50:13,189 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:50:13,189 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:53:17,917 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:53:17,918 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:53:17,920 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:53:17,920 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:56:18,767 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:56:18,768 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:56:18,769 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 09:56:18,769 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 09:56:24,509 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:24,513 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:24,517 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:26,069 [Worker-28: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:26,072 [Worker-28: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:26,076 [Worker-28: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:33,992 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:33,996 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:33,999 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:35,096 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:35,100 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 09:56:35,104 [Worker-39: Launching MyApp (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 10:00:11,354 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:00:11,355 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:00:11,357 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:00:11,357 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:00:12,376 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:00:12,376 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:00:12,377 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:00:12,377 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:10:56,411 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:10:56,411 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:10:56,413 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:10:56,413 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:22:13,555 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:22:13,555 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:22:13,557 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:22:13,557 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:24:08,735 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:24:08,736 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:24:08,739 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:24:08,739 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:24:21,090 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:24:21,090 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:24:21,092 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:24:21,093 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:25:26,279 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:25:26,280 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:25:26,282 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:25:26,282 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:29:54,014 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:29:54,014 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:29:54,015 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:29:54,016 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:30:33,055 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:30:33,056 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:30:33,057 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:30:33,058 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:33:27,807 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:33:27,807 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:33:27,808 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:33:27,808 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:34:31,628 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:34:31,629 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:34:31,631 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:34:31,631 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:54:51,907 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJdbc:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJdbc\pom.xml.
+2023-06-22 10:54:51,943 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:54:51,944 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:54:51,946 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:54:51,946 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:54:53,131 [Worker-54: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.1.214/h2-2.1.214-sources.jar
+2023-06-22 10:54:53,283 [Worker-54: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.1.214/h2-2.1.214-sources.jar
+2023-06-22 10:54:53,286 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.h2database:h2:2.1.214
+2023-06-22 10:57:03,915 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJdbc:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJdbc\pom.xml.
+2023-06-22 10:57:03,954 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:57:03,955 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 10:57:03,956 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 10:57:03,957 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 11:34:22,644 [Worker-78: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-22 11:34:23,091 [Worker-78: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJdbc:0.0.1-SNAPSHOT @ C:\Users\Administrateur\OneDrive - M2I\Bureau\soulef\m2i-java-oracle-2023\basesJdbc2\pom.xml.
+2023-06-22 11:34:23,686 [Worker-78: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJdbc2/src/main/java
+2023-06-22 11:34:23,687 [Worker-78: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /basesJdbc2/src/test/java
+2023-06-22 11:34:23,846 [Worker-78: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-06-22 11:34:24,013 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:34:24,013 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrateur\OneDrive - M2I\Bureau\soulef\m2i-java-oracle-2023\basesJdbc2\src\main\resources
+2023-06-22 11:34:24,015 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:34:24,015 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrateur\OneDrive - M2I\Bureau\soulef\m2i-java-oracle-2023\basesJdbc2\src\test\resources
+2023-06-22 11:35:51,348 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:35:51,348 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 11:35:51,349 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:35:51,349 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 11:36:11,643 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:36:11,644 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 11:36:11,645 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:36:11,645 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 11:38:17,703 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:38:17,703 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 11:38:17,704 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:38:17,704 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 11:54:13,413 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:54:13,414 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 11:54:13,422 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:54:13,422 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 11:59:27,454 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:59:27,455 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 11:59:27,460 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 11:59:27,460 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 12:00:00,624 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:00:00,624 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 12:00:00,626 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:00:00,626 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 12:10:52,075 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:10:52,076 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 12:10:52,078 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:10:52,079 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 12:12:26,226 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:12:26,226 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 12:12:26,228 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:12:26,228 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 12:13:08,905 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:13:08,905 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 12:13:08,906 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:13:08,907 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 12:13:42,676 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:13:42,676 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 12:13:42,678 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:13:42,679 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 12:14:45,628 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:14:45,629 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 12:14:45,630 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 12:14:45,630 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:46:21,155 [Worker-88: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJdbc:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJdbc\pom.xml.
+2023-06-22 13:46:21,159 [Worker-88: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier  to /basesJava/target/classes
+2023-06-22 13:46:21,214 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:46:21,215 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:46:21,217 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:46:21,217 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:46:31,059 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tp:basesJdbc:0.0.1-SNAPSHOT @ C:\Users\Administrateur\eclipse-workspace\basesJdbc\pom.xml.
+2023-06-22 13:46:31,063 [Worker-72: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier  to /basesJava/target/classes
+2023-06-22 13:46:31,098 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:46:31,099 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 13:46:31,102 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:46:31,103 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:54:35,947 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:54:35,948 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 13:54:35,949 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:54:35,949 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:55:13,254 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:55:13,255 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 13:55:13,257 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:55:13,257 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:55:41,212 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:55:41,213 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 13:55:41,214 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:55:41,214 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:57:02,409 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:57:02,409 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 13:57:02,410 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:57:02,411 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:58:50,328 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:58:50,329 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 13:58:50,330 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:58:50,330 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:59:08,374 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:59:08,374 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 13:59:08,377 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 13:59:08,377 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 13:59:32,098 [Worker-88: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 13:59:32,103 [Worker-88: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 13:59:32,108 [Worker-88: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:00:54,648 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:00:54,649 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:00:54,650 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:00:54,650 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:00:56,215 [Worker-82: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:00:56,220 [Worker-82: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:00:56,224 [Worker-82: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:05:23,662 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:05:23,662 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:05:23,664 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:05:23,664 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:05:25,272 [Worker-93: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:05:25,277 [Worker-93: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:05:25,282 [Worker-93: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:05:53,304 [Worker-95: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:05:53,308 [Worker-95: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:05:53,313 [Worker-95: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:07:27,939 [Worker-96: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:07:27,943 [Worker-96: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:07:27,948 [Worker-96: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:09:47,456 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:09:47,457 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:09:47,459 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:09:47,459 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:09:53,180 [Worker-98: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:09:53,184 [Worker-98: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:09:53,189 [Worker-98: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:10:04,218 [Worker-95: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:10:04,222 [Worker-95: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:10:04,228 [Worker-95: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:10:38,370 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:10:38,371 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:10:38,372 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:10:38,372 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:16:10,065 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:16:10,066 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:16:10,068 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:16:10,068 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:16:12,759 [Worker-91: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:16:12,764 [Worker-91: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:16:12,768 [Worker-91: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:16:23,496 [Worker-103: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:16:23,501 [Worker-103: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:16:23,506 [Worker-103: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:19:16,631 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:19:16,632 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:19:16,633 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:19:16,634 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:19:18,809 [Worker-91: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:19:18,813 [Worker-91: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:19:18,818 [Worker-91: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:19:25,616 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:19:25,621 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:19:25,625 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:24:17,896 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:24:17,896 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:24:17,897 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:24:17,897 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:24:20,746 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:24:20,752 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:24:20,757 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:31:22,707 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:31:22,708 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:31:22,710 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:31:22,710 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:31:29,367 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:31:29,367 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:31:29,369 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:31:29,369 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:31:32,283 [Worker-110: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:31:32,288 [Worker-110: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:31:32,293 [Worker-110: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:31:58,624 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:31:58,630 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:31:58,636 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:32:52,483 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:32:52,484 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:32:52,486 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:32:52,486 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:32:54,141 [Worker-113: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:32:54,146 [Worker-113: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:32:54,151 [Worker-113: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:33:01,209 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:33:01,214 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:33:01,219 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:33:51,223 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:33:51,228 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:33:51,233 [Worker-102: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:34:52,657 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:34:52,658 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:34:52,660 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:34:52,660 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:35:17,198 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:35:17,199 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:35:17,200 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:35:17,200 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:35:35,731 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:35:35,732 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:35:35,733 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:35:35,733 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:37:19,241 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:37:19,242 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:37:19,243 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:37:19,243 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:37:31,446 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:37:31,447 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:37:31,448 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:37:31,449 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:37:33,413 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:37:33,417 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:37:33,422 [Worker-109: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:47:29,267 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:47:29,268 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:47:29,269 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:47:29,269 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:47:58,062 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:47:58,063 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:47:58,064 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:47:58,064 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:48:24,753 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:48:24,754 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:48:24,755 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:48:24,755 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:48:26,770 [Worker-115: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:48:26,775 [Worker-115: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:48:26,780 [Worker-115: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:48:34,735 [Worker-116: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:48:34,741 [Worker-116: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:48:34,746 [Worker-116: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:52:40,143 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:52:40,144 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:52:40,145 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:52:40,145 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:52:55,908 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:52:55,909 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:52:55,910 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:52:55,910 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:52:57,438 [Worker-115: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:52:57,443 [Worker-115: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:52:57,447 [Worker-115: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:53:48,133 [Worker-118: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:53:48,138 [Worker-118: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:53:48,142 [Worker-118: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:54:40,668 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:54:40,668 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:54:40,669 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:54:40,670 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:54:42,146 [Worker-118: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:54:42,151 [Worker-118: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:54:42,156 [Worker-118: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:54:57,158 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:54:57,159 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 14:54:57,161 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 14:54:57,161 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 14:54:58,369 [Worker-120: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:54:58,373 [Worker-120: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 14:54:58,378 [Worker-120: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 15:04:13,749 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 15:04:13,749 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-22 15:04:13,750 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-22 15:04:13,750 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-22 15:04:16,484 [Worker-121: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 15:04:16,489 [Worker-121: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
+2023-06-22 15:04:16,494 [Worker-121: Launching MyApp (4)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/basesJava: tp:basesJava:0.0.1-SNAPSHOT with classifier null to /basesJava/target/classes
